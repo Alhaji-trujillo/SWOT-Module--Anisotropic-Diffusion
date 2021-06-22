@@ -1,0 +1,2 @@
+# SWOT-Module--Anisotropic-Diffusion
+Using Anisotropic Diffusion process to remove small-scale noises in Sea Surface Height (SSH) images of the wide-swath SWOT altimeter. A continuation of Gomez-Navarro et al 2020 SWOT Module of the BOOST-SWOT project supported by the National Research Agency (ANR), itself backed by the preparation program for the SWOT mission (NASA/CNES) with which IGE MEOM team is a part of.
